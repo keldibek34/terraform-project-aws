@@ -7,8 +7,8 @@ database_name       = "wordpressdb"
 master_username     = "dbuser"
 master_password     = "dbuserpass"
 number_of_instances = 3
-domain_name         = "ysakova.com"
-zone_id             = "Z03752632UEAH78FQT19U"
+domain_name         = "kabysov.com"
+zone_id             = "Z088083418MWN57KO0N03"
 tags = {
 
   Name      = "Terraform-project"
