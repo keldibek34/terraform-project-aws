@@ -6,6 +6,6 @@ public_subnet2    = "172.0.0.0/24"
 
 
 tags = {
-  Name      = "ohio"
-  region    = "ohio"
+  Name      = "sydney"
+  region    = "sydney"
 }
